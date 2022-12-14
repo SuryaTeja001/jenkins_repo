@@ -5,3 +5,5 @@ list_2=[100,200,300,400,500]
 res_list2=[x*0.2 for x in list_2]
 print(res_list2)
 print("list completed")
+res_list3=res_list1-res_list2
+print(res_list3)
